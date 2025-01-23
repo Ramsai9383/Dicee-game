@@ -1,0 +1,10 @@
+*{
+  background-color: lightgray;
+}
+.intro{
+  display: flex;
+  height:30vh;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
